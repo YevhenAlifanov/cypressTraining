@@ -1,0 +1,12 @@
+{
+
+  "loginPageLocators": {
+
+    "username_text" : "#email",
+    "password_text" :".login-container > .block-customer-login > .block-content > #login-form > .fieldset > .password > .control > #pass",
+    "login_button" : ".login-container > .block-customer-login > .block-content > #login-form > .fieldset > .actions-toolbar > div.primary > #send2 > span",
+    "error_message": ".message-error > div",
+    "attention_text": ".content > p"
+  }
+
+}
